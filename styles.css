@@ -83,3 +83,13 @@ body{
 .name2{
     color: hsl(0, 0%, 100%);
 }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
