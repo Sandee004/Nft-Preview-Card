@@ -1,5 +1,5 @@
 # Nft-Preview-Card
-Replica of an nft profile card
+Replica of an Nft Card(Frontend Mentor task)
 
 View code: https://sandee004.github.io/nft-profile-card/
 
